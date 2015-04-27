@@ -3,6 +3,4 @@ For demo purposes
 
 And more today 23rd April
 
-And yet more today
-
 This is a simple demo to show how we can mirror from GitHub to Stash
